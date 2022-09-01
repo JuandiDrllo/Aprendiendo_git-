@@ -1,2 +1,2 @@
 # Aprendiendo_git-
-Aprendiendo con repositorio publico 
+Aprendiendo con repositorio publico  ayudado por safite 
